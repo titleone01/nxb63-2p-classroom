@@ -1,8 +1,8 @@
 {
-  "compressed": "model-337737df889d.glb.gz",
-  "fallback": "model-337737df889d.glb",
-  "compressedBytes": 1783726,
-  "decodedBytes": 2732240,
-  "sha256": "337737df889d07e84128d3179f58e9ade872ac92dbd73d5afa5307982703c329",
-  "gzipSha256": "f5869d1b803fd9ea058d57a3800e49865a45fad78e7d1a0123a414062431adb6"
+  "compressed": "model-8acf5a4e20ac.glb.gz",
+  "fallback": "model-8acf5a4e20ac.glb",
+  "compressedBytes": 2555284,
+  "decodedBytes": 3595260,
+  "sha256": "8acf5a4e20ac4efc830ff54db6d82023daf32359cf96ddfb668362521c2ba743",
+  "gzipSha256": "a3de56eea31fae2b131a201d5d6e98596d72ba9707ca571cabd7f5359be2f949"
 }
